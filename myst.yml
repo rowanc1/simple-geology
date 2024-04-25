@@ -1,0 +1,22 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 5ee53ef7-b5da-4759-be53-a081a0d8e024
+  title: Basic Geology Generator
+  subtitle: Exploring generative models in geoscience
+  date: 2024/04/25
+  # description:
+  authors:
+    - name: Rowan Cockett
+      affiliation: Curvenote
+      orcid: 0000-0002-7859-8394
+  github: https://github.com/rowanc1/simple-geology
+  # bibliography: []
+  banner: banner.png
+  license:
+    code: MIT
+    content: CC-BY-4.0
+  open_access: true
+  subject: Computational Modelling
+site:
+  template: article-theme
